@@ -72,3 +72,19 @@ Wordmark: `SAP(P)IEN` in Big Shoulders 190, with `(P)` in orange and the rest bo
 12. Activations: three tall cards
 13. Timeline: "22 WEEKS" with proportional phase bars
 14. Next Steps: "LET'S TALK.", three steps, QR, hazard tape
+
+## V2 additions (17 slides)
+
+- **Fixed header** on every content slide: breadcrumb at (80, 64), `NN / 17` right-aligned to x=1840, 80×6 orange accent at y=104.
+- **One glow per slide.** The accent word of the title is orange with the glow. Everything else is bone with the 12px black shadow.
+- **Status chips** (JetBrains Mono Bold 16, 12% tracking, 10px dot):
+  - `done`: solid orange, ink text
+  - `dark`: ink fill, bone text, orange dot
+  - `prog`: orange outline
+  - `exp`: sand outline
+  - `tbd`: dashed stone outline
+- **[BOB: INSERT] placeholders:** dashed orange 1.5px outline, orange @8% fill, JetBrains Mono Medium 17, orange-lt text. An ink variant is used on orange slides.
+- **Image placeholders:** `panel-2` fill, dashed orange 2px stroke `[14,10]`, centred `[ DROP: … ]` label.
+- **Ledgers (Financials):** Inter 20 labels, JetBrains Mono Bold 22 values right-aligned to the column edge, bone @10% hairlines, totals in Big Shoulders orange.
+- **Tonal arc:** dark slides throughout, with orange panels on Revenue (10) and a full-orange slide for The Ask (16). Hazard tape bookends slides 1 and 17.
+- **Speaker notes:** every slide carries the outline text that was condensed on the slide, plus TODOs.
