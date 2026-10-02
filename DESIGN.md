@@ -99,3 +99,18 @@ Wordmark: `SAP(P)IEN` in Big Shoulders 190, with `(P)` in orange and the rest bo
 - **Orange** stays the colour for brand, action and danger.
 - **Duotone** for secondary photos (slide 2 TIME cover, slide 3 lion in the wild, slide 7 aerial): image saturation −1, contrast +0.18, orange multiply @55%, ink @12%. Hero photos stay full colour.
 - **Tape label** for at most one phrase per slide: solid orange bar, ink JetBrains Mono Bold 16–17, 14% tracking. Used on slide 4 (gear) and slide 8 (25 OR OVER).
+
+## Section dividers (deck is now 21 slides)
+
+- **Structure:** five named sections in the slide grid:
+  - Opening: 1
+  - The Idea: 2–5
+  - The Operation: 6–11
+  - The Business: 12–18
+  - The Ask: 19–21
+- **Divider layout:**
+  - Full-bleed photo with an ink shade @22%, plus fades from the left, bottom and top.
+  - `SECTION 0N` label in orange-lt mono.
+  - "THE" in bone + the section word in orange with glow, Big Shoulders 250.
+  - Mono contents line listing the section's slides.
+- **Interim photos:** the dividers use V1 images (gear-up, net climb, chase, feeding). Swap them for Bob's real shoots.
