@@ -88,3 +88,14 @@ Wordmark: `SAP(P)IEN` in Big Shoulders 190, with `(P)` in orange and the rest bo
 - **Ledgers (Financials):** Inter 20 labels, JetBrains Mono Bold 22 values right-aligned to the column edge, bone @10% hairlines, totals in Big Shoulders orange.
 - **Tonal arc:** dark slides throughout, with orange panels on Revenue (10) and a full-orange slide for The Ask (16). Hazard tape bookends slides 1 and 17.
 - **Speaker notes:** every slide carries the outline text that was condensed on the slide, plus TODOs.
+
+## V2.1 accents
+
+- **Gold `#C9A04A`** is for achievement and money only:
+  - Slide 9 (the whole slide, including the glow)
+  - Slide 10: Title sponsor card and the $20,000 participant price
+  - Slide 14: hero total, ledger rules, totals and the equation
+  - "COMPLETE" status badges
+- **Orange** stays the colour for brand, action and danger.
+- **Duotone** for secondary photos (slide 2 TIME cover, slide 3 lion in the wild, slide 7 aerial): image saturation −1, contrast +0.18, orange multiply @55%, ink @12%. Hero photos stay full colour.
+- **Tape label** for at most one phrase per slide: solid orange bar, ink JetBrains Mono Bold 16–17, 14% tracking. Used on slide 4 (gear) and slide 8 (25 OR OVER).
